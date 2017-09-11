@@ -1,0 +1,11 @@
+{
+	"name": "fr3nch13/vendor-sidr",
+	"type": "component",
+	"keywords": ["jquery", "side", "menu"],
+	"description": "From: https://github.com/artberri/sidr",
+	"homepage": "https://github.com/fr3nch13/vendor-sidr",
+    	"require": {
+		"components/jquery": "*",
+		"components/jqueryui": "*"
+	}
+}
